@@ -6,4 +6,4 @@ I hope you enjoy!***
 ###
 So, the idea is to create a opensource YouTube like platform, this is just a small project & not such a big deal.
 Thinking why should 1 company operate 1 of the biggest video sharing platforms, yeah I was thinking that too.
-So, here's an alternative!
+So, here's an platform like YouTube!
